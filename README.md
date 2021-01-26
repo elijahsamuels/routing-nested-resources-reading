@@ -206,7 +206,7 @@ Let's make it easy for our readers to look at the posts for each of our authors 
 
 In `posts/index.html.erb`, we already show the author's name, so let's add a link to the list of the author's posts:
 
-```erb
+```ruby
 <!-- app/views/posts/index.html.erb -->
 
   ...
